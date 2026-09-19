@@ -5,9 +5,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2A5A,50:FFB800,100:00E5FF&height=220&section=header&text=I%20Am%20Chris%20🐾&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=%20JUNIOR%20WEB%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" alt="header" />
+<!-- Custom Cat-Tech Banner -->
+<img src="./banner.svg" alt="Cat Tech Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FFB800&center=true&vCenter=true&width=640&lines=🐾+Purring+through+projects;🐾+Chasing+bugs+like+laser+dots;🐾+Always+landing+on+my+feet" alt="typing" />
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E2A5A,50:FFB800,100:00E5FF&height=220&section=header&text=I%20Am%20Chris%20🐾&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=JUNIOR%20WEB%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" alt="header" />
+
+<!-- Replaced typing banner with a playful cat banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB800&height=100&section=footer&text=🐱%20Cats%20Running%20·%20Playing%20·%20Coding%20🐱&fontSize=20&fontColor=1E2A5A&animation=fadeIn" alt="cat-banner" />
 
 <br/>
 
