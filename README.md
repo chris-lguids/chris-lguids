@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Custom Cat-Tech Banner -->
-<img src="https://drive.google.com/file/d/1Gr1qGI0wKxY4McBTp0GcRVU1COFTNIWM/view?usp=sharing" alt="Cat Tech Banner" width="100%" />
+<img src="https://drive.google.com/uc?export=view&id=1Gr1qGI0wKxY4McBTp0GcRVU1COFTNIWM" alt="Cat Tech Banner" width="100%" />
 
 </div>
 
