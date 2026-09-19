@@ -38,5 +38,5 @@ const crew = {
 <img src="./banner.svg" alt="Cat Tech Banner" width="100%" />
 
 <!-- Custom Cat-Tech Banner -->
-<img src="./cats&friends.svg" alt="Cat Tech Banner" width="100%" />
+<img src="./cat_flyer.svg" alt="Cat Tech Banner" width="100%" />
 
