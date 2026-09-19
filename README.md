@@ -27,5 +27,5 @@ const crew = {
   base:     "🌍 Raccoon City / Remote",
   mission:  "To chase down bugs like playful kittens, uncover hidden flaws like curious cats, and keep projects purring smoothly in production.",
   fuel:     ["☕ Catpuccino", "🎧 Lo-fi Meow Beats", "🐟 Curiosity"],
-  quote:    "“Coder by day, cat whisperer by night.”",
+  quote:    “Engineer of scalable apps, breaker of bugs, and occasional coffee alchemist.",
 };
