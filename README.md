@@ -9,14 +9,42 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFB800&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%90%BE+Engineer+of+scalable+apps;%F0%9F%90%BE+Breaker+of+bugs;%E2%98%95+Occasional+coffee+alchemist;%F0%9F%90%B1+Keeping+projects+purring+in+production" alt="Typing SVG" />
 </a>
 <br/>
+
+/*  ╔══════════════════════════════════════════════════════════╗
+    ║   /\_/\      ✦ ･ﾟ: *✧･ﾟ:*   C R E W   *:･ﾟ✧*:･ﾟ✦      ║
+    ║  ( o.o )                                                 ║
+    ║   > ^ <   ⋆｡°✩ ₊˚ৎ୭  P R O F I L E  ୧ৎ˚₊ ✩°｡⋆          ║
+    ╚══════════════════════════════════════════════════════════╝  */
+
+// ✦━━━━━━━━━━━━━━━━━━━━━ 🐾 ━━━━━━━━━━━━━━━━━━━━━✦
 const crew = {
-  nickname: "Chris 🐾",
-  role:     "Junior Web Developer",
-  base:     "🌍 Raccoon City / Remote",
-  mission:  "To chase down bugs like playful kittens, uncover hidden flaws like curious cats, and keep projects purring smoothly in production.",
-  fuel:     ["☕ Catpuccino", "🎧 Lo-fi Meow Beats", "🐟 Curiosity"],
-  quote:    "Engineer of scalable apps, breaker of bugs, and occasional coffee alchemist.",
+
+  // ⟡ ─── IDENTITY ─────────────────────────── ⟡
+  nickname: "🐾 ⋆｡°✩ Chris ✩°｡⋆ 🐾",
+  role:     "💻 ⌜ Junior Web Developer ⌟ ✨",
+  base:     "🌍 ⟦ Raccoon City ⟧ ⚡ ⟦ Remote ⟧ 🛰️",
+
+  // ⟡ ─── MISSION ──────────────────────────── ⟡
+  mission:  "🎯 ➤ To chase down bugs like playful kittens 🐛🐱, "
+          + "uncover hidden flaws like curious cats 🔍😼, "
+          + "and keep projects purring smoothly in production 🚀💫",
+
+  // ⟡ ─── FUEL ─────────────────────────────── ⟡
+  fuel: [
+    "☕ ⋆ Catpuccino ⋆ 🥛",
+    "🎧 ⋆ Lo-fi Meow Beats ⋆ 🎶",
+    "🐟 ⋆ Curiosity ⋆ ✨",
+  ],
+
+  // ⟡ ─── QUOTE ────────────────────────────── ⟡
+  quote:    "❝ Engineer of scalable apps, breaker of bugs, "
+          + "and occasional coffee alchemist. ❞ ☕⚗️🐾",
 };
+// ✦━━━━━━━━━━━━━━━━━━━━━ 🐾 ━━━━━━━━━━━━━━━━━━━━━✦
+
+/*   ∧,,,∧
+    ( ̳• · • ̳)   ♡  purr-fectly brewed  ♡
+    /    づ☕                                          */
 
 <br/>
 
