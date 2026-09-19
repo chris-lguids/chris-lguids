@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1E2A5A,100:00E5FF&height=220&section=header&text=YOUR%20NAME&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=%F0%9F%9B%B0%EF%B8%8F%20MISSION%20CONTROL%20%C2%B7%20JUNIOR%20WEB%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:1E2A5A,100:00E5FF&height=220&section=header&text=I%20Am%20Chris&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=%F0%9F%9B%B0%EF%B8%8F%20MISSION%20CONTROL%20%C2%B7%20JUNIOR%20WEB%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=FFB800&center=true&vCenter=true&width=640&lines=T-minus+00:00:10+%E2%80%A6+all+systems+go;Building+things+that+survive+contact+with+reality;Currently+in+orbit+around+projects+and+learning" alt="typing" />
 
