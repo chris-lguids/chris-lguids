@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Custom Cat-Tech Banner -->
-<img src="./assets/banner.svg" alt="Cat Tech Banner" width="100%" />
+<img src="./banner.svg" alt="Cat Tech Banner" width="100%" />
 
 </div>
 
