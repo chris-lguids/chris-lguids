@@ -19,4 +19,4 @@
 
 <!-- Animated cat-tech + coffee banner -->
 
-<img src="last_page.svg" alt="Cat and coffee workspace banner" width="100%" />
+<img src="./last_page.svg" alt="Cat and Coffee Banner" style="width:100%;" />
