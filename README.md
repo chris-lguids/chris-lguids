@@ -9,7 +9,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFBF00&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%90%BE+Engineer+of+scalable+apps;%F0%9F%90%BE+Breaker+of+bugs;%E2%98%95+Occasional+coffee+alchemist;%F0%9F%90%B1+Keeping+projects+purring+in+production" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F2027,50:2C5364,100:00C9FF&height=100&section=header&text=%20SOFTWARE%20DEVELOPER%20@%20UpUp%20App%20%7C%20From%20Raccoon%20City&fontSize=22&fontColor=DC143C&fontAlignY=45&animation=twinkling" width="100%" alt="Futuristic Banner" />
+<img src="./paper.png"
+     width="100%"
+     alt="Paper Banner"
+     style="border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
 
 <br/>
 
