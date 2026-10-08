@@ -22,4 +22,4 @@
 
 <!-- Animated cat-tech + coffee banner -->
 
-<img src="./coffee_cats_v3.gif" alt="Cat and Coffee Banner" style="width:100%;" />
+<img src="./coffee_cats_v3.gif" alt="Cat and Coffee Banner" style="width:200vw;" />
