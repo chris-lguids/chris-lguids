@@ -21,8 +21,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FFB800,100:6F4E37&height=140&section=footer&text=☕%20Purr-fectly%20Brewed%20🐾&fontSize=24&fontColor=FFFFFF&fontAlignY=68&animation=twinkling" width="100%" alt="footer" />
 
 <!-- Animated cat-tech + coffee banner -->
+<div align="center">
+  <img src="./coffee_cats_v5_themed.gif" 
+       alt="Cat and Coffee Banner" 
+       style="width:100%; max-width:800px;" />
+</div>
 
-<img src="./coffee_cats_v5_themed.gif" 
-     alt="Cat and Coffee Banner" 
-     style="display:block; margin:0 auto; width:100%; max-width:800px;" />
 
